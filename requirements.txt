@@ -119,7 +119,7 @@ pytest-pylint==0.14.1
 python-dateutil==2.8.0
 python-docx==0.8.10
 pytz==2019.1
-pywin32==224
+pywin32==301
 pywinpty==0.5.5
 PyYAML==5.1.2
 pyzmq==18.0.1
